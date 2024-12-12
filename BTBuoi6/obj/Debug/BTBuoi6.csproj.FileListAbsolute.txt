@@ -1,0 +1,15 @@
+D:\source\Youtube\BTBuoi6\BTBuoi6\obj\Debug\BTBuoi6.csproj.AssemblyReference.cache
+D:\source\Youtube\BTBuoi6\BTBuoi6\obj\Debug\BTBuoi6.Form1.resources
+D:\source\Youtube\BTBuoi6\BTBuoi6\obj\Debug\BTBuoi6.Properties.Resources.resources
+D:\source\Youtube\BTBuoi6\BTBuoi6\obj\Debug\BTBuoi6.csproj.GenerateResource.cache
+D:\source\Youtube\BTBuoi6\BTBuoi6\obj\Debug\BTBuoi6.csproj.CoreCompileInputs.cache
+D:\source\Youtube\BTBuoi6\BTBuoi6\bin\Debug\BTBuoi6.exe.config
+D:\source\Youtube\BTBuoi6\BTBuoi6\bin\Debug\BTBuoi6.exe
+D:\source\Youtube\BTBuoi6\BTBuoi6\bin\Debug\BTBuoi6.pdb
+D:\source\Youtube\BTBuoi6\BTBuoi6\bin\Debug\EntityFramework.dll
+D:\source\Youtube\BTBuoi6\BTBuoi6\bin\Debug\EntityFramework.SqlServer.dll
+D:\source\Youtube\BTBuoi6\BTBuoi6\bin\Debug\EntityFramework.xml
+D:\source\Youtube\BTBuoi6\BTBuoi6\bin\Debug\EntityFramework.SqlServer.xml
+D:\source\Youtube\BTBuoi6\BTBuoi6\obj\Debug\BTBuoi6.csproj.Up2Date
+D:\source\Youtube\BTBuoi6\BTBuoi6\obj\Debug\BTBuoi6.exe
+D:\source\Youtube\BTBuoi6\BTBuoi6\obj\Debug\BTBuoi6.pdb
